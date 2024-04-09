@@ -3,8 +3,8 @@
 - 🕵 **I’m looking to collaborate on:** `HTML & CSS projects`.<br>
 - 📚 **I’m currently learning:** `Cross-platform application development`.<br>
 - 👨‍💻 **All of my projects are private now** 
-- 💬 **Ask me about:** `C#`, `Java`, `CSS`, `HTML`, `XML`, `phpMyAdmin`, life advice🤣, travelling✈️, and food🍔🍕.
-- ❗❗❗ **Life Hack:** Learn new `tech` 🔥 and share what you have learned.🎉
+- 💬 **Ask me about:** `C#`, `Java`, `CSS`, `HTML`, `XML`, `phpMyAdmin`.
+- ❗❗❗ **Life Hack:** Learn new `tech` and share what you have learned.🎉
 - 📥 **How to reach me:** jhonsonscod@gmail.com
 - ⚡ **Fun fact:** I need Coca-cola breaks during my working/studying hours😅.
 
