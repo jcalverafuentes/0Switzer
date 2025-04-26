@@ -1,12 +1,12 @@
 ## 📋 About Me:
 
-- 🕵 **I’m looking to collaborate on:** `HTML & CSS projects`.<br>
+- 🕵 **I’m looking to collaborate on:** `All type of projects`.<br>
 - 📚 **I’m currently learning:** `Cross-platform application development`.<br>
 - 👨‍💻 **All of my projects are private now.** 
-- 💬 **Ask me about:** `C#`, `Java`, `CSS`, `HTML`, `XML`, `phpMyAdmin`.
+- 💬 **Ask me about:** `C#`, `Java`, `JavaFX`, `CSS`, `HTML`, `XML`, `Android Studio`, `phpMyAdmin`.
 - ❗❗❗ **Life Hack:** Learn new `tech` and share what you have learned.🎉
 - 📥 **How to reach me:** jhonsonscod@gmail.com
-- ⚡ **Fun fact:** I need Coca-cola breaks during my working/studying hours😅.
+- ⚡ **Fun fact:** I need Coca-cola/coffe breaks during my working/studying hours😅.
 
 ## 🌐 Socials:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](soon) 
@@ -21,4 +21,4 @@
 <br><br><br><br><br>
 
 ## Profile Views👩🏻‍💻:
-[![](https://visitcount.itsvg.in/api?id=0Switzer&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0Switzer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
