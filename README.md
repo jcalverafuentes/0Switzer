@@ -21,4 +21,4 @@
 <br><br><br><br><br>
 
 ## Profile Views👩🏻‍💻:
-[![](https://visitcount.itsvg.in/api?id=0Switzer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0Switzer&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
