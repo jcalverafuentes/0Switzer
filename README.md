@@ -16,6 +16,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Switzer&" alt="0Switzer" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0Switzer&show_icons=true&locale=en&layout=compact" alt="0Switzer" /></p><br><br><br>
 <br><br><br><br><br>
-
-## Profile Views👩🏻‍💻:
-[![](https://visitcount.itsvg.in/api?id=0Switzer&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
