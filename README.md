@@ -5,11 +5,11 @@
 - 💻 **I'm currently working:** `QA Automation Tester/Software Developer`.<br>
 - 👨‍💻 **All of my projects are private now.** 
 - 💬 **Ask me about:** `C#`, `Java`, `JavaFX`, `CSS`, `HTML`, `XML`, `Android Studio`, `phpMyAdmin`, `Selenium`.
-- 📥 **How to reach me:** jhonsonscod@gmail.com
-- ⚡ **Fun fact:** I need Coca-cola/coffe breaks during my working/studying hours😅.
+- 📥 **How to reach me:** `jhonsonscod@gmail.com`
+- ⚡ **Fun fact:** `I need Coca-cola/coffe breaks during my working/studying hours😅.`
 
 ## 🛠️ Technologies and Tools I use:
-![C#](soon) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](soon) ![phpMyAdmin](soon) ![XML](soon) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](soon) ![Java](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](soon) ![phpMyAdmin](soon) ![XML](soon) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0Switzer&show_icons=true&locale=en" alt="0Switzer" /></p>
