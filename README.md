@@ -9,7 +9,7 @@
 - ⚡ **Fun fact:** `I need Coca-cola/coffe breaks during my working/studying hours😅.`
 
 ## 🛠️ Technologies and Tools I use:
-![C#](soon) ![Java](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](soon) ![phpMyAdmin](soon) ![XML](soon) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-violet) ![Java](<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chetu.com%2Fes%2Fon-demand-developers%2Fjava.php&psig=AOvVaw2eASlWMtmZu_KTUVfW6q8h&ust=1751804082976000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD5yfLYpY4DFQAAAAAdAAAAABAE alt="java" width="40" height="40"/>) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](soon) ![phpMyAdmin](soon) ![XML](soon) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0Switzer&show_icons=true&locale=en" alt="0Switzer" /></p>
