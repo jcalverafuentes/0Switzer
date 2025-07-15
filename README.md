@@ -12,6 +12,6 @@
 
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcalverafuentes&show_icons=true&locale=en" alt="jcalverafuentes" /></p>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jcalverafuentes&mode=weekly" alt="GitHub Streak" /></a>
+<p><img align ="center" src="http://github-readme-streak-stats.herokuapp.com?user=jcalverafuentes&mode=weekly" alt="GitHub Streak" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcalverafuentes&show_icons=true&locale=en&layout=compact" alt="jcalverafuentes" /></p><br><br><br>
 <br><br><br><br><br>
