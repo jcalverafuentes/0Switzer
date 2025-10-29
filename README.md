@@ -8,7 +8,6 @@
 - 💬 **Ask me about:** <br><br>
 ![C#](https://img.shields.io/badge/C%23-violet) ![Java](https://img.shields.io/badge/Java-brown) ![JavaFX](https://img.shields.io/badge/JavaFX-red) ![CSS](https://img.shields.io/badge/CSS-blue) ![HTML](https://img.shields.io/badge/HTML-orange) ![XML](https://img.shields.io/badge/XML-yellow) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-aqua) ![SQL](https://img.shields.io/badge/SQL-black) ![Selenium](https://img.shields.io/badge/Selenium-green).<br><br>
 - 📥 **How to reach me:** `juancalverafuentes@gmail.com`
-- ⚡ **Fun fact:** `I need Coca-cola/coffe breaks during my working/studying hours😅.`
 
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcalverafuentes&show_icons=true&locale=en" alt="jcalverafuentes" /></p>
